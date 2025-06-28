@@ -43,5 +43,5 @@ Compare manual computations with model results for validation.
 
 🔗 Connect With Me
 If you're hiring for financial analytics, data science, or quant roles—
-Luis Pazmiño | LinkedIn | Based in NYC
+Luis Pazmiño | [LinkedIn](https://www.linkedin.com/in/luis-pazmino-702838248/) | Based in NYC
 I’m open to challenging opportunities in finance, risk modeling, and business strategy powered by data.
